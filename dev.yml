@@ -1,5 +1,6 @@
-test:
-  profile:
-    t1: "t1"
-  pro:
-    t2: "t2"
+
+spring:
+  datasource:
+    uri: myEnvironment
+    username: root
+    password: password
