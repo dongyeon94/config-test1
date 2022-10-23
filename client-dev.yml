@@ -1,6 +1,1 @@
-
-my-config:
-  profile: "dev"
-    test: 
-      t1: "t1"
-      t2: "t2"
+foo.db: mycooldb
