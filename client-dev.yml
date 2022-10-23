@@ -1,1 +1,5 @@
-foo.db: mycooldb
+my-config:
+  profile: "dev"
+  take:
+    t1: "t1"
+    t2: "t2"
