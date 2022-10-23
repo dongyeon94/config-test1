@@ -1,0 +1,32 @@
+
+spring:
+  profiles: local
+
+my-config:
+  profile: local
+  take:
+    t1: "t1apigatewayconfig-server"
+    t2: "t2apigatewayconfig-server"
+    
+    
+    
+
+spring:
+  profiles: dev
+
+my-config:
+  profile: dev
+  take:
+    t1: "t1apigatewayconfig-server"
+    t2: "t2apigatewayconfig-server"
+    
+    
+
+spring:
+  profiles: prod
+
+my-config:
+  profile: prod
+  take:
+    t1: "t1apigatewayconfig-server"
+    t2: "t2apigatewayconfig-server"
