@@ -1,6 +1,6 @@
 
-spring:
-  datasource:
-    uri: myEnvironment
-    username: root
-    password: password
+my-config:
+  profile: "dev"
+    test: 
+      t1: "t1"
+      t2: "t2"
