@@ -1,5 +1,5 @@
 my-config:
   profile: "dev"
   take:
-    t1: "t1"
-    t2: "t2"
+    t1: "t1config"
+    t2: "t2config"
