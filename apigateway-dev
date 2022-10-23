@@ -1,5 +1,0 @@
-my-config:
-  profile: "dev"
-  take:
-    t1: "t1apigateway"
-    t2: "t2apigateway"
